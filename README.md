@@ -6,9 +6,9 @@
 
 Web Application represents Graphical User Interface (GUI) for the user to interact with in order to book dental appointments. Web Application communicates with other components in order to achieve the following goals:
 
-- [Database Model Handler](https://git.chalmers.se/courses/dit355/dit356-2022/t-11/t11-database-model-handler) to get the information saved in the database, which is needed to display pins of clinics on the map of Gothenburg along with their names and opening hours,
-- [Schedule Handler](https://git.chalmers.se/courses/dit355/dit356-2022/t-11/t11-schedule-handler) to display dental appointment slots according to the user's date choice and update schedule dynamically, and
-- [Booking Validator](https://git.chalmers.se/courses/dit355/dit356-2022/t-11/t11-booking-validator) to proceed with the user's booking request, and display notification to the user depending on the booking outcome (success, warning, failure or service unavailable) according to the message received from the Booking Validator.
+- [Database Model Handler](https://github.com/T-11-Dentistimo/T11-Database-Model-Handler) to get the information saved in the database, which is needed to display pins of clinics on the map of Gothenburg along with their names and opening hours,
+- [Schedule Handler](https://github.com/T-11-Dentistimo/T11-Schedule-Handler) to display dental appointment slots according to the user's date choice and update schedule dynamically, and
+- [Booking Validator](https://github.com/T-11-Dentistimo/T11-Booking-Validator) to proceed with the user's booking request, and display notification to the user depending on the booking outcome (success, warning, failure or service unavailable) according to the message received from the Booking Validator.
 
 ### Subcomponents
 
